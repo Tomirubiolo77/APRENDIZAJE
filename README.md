@@ -8,4 +8,5 @@ En este repositorio tendre un seguimiento del aprendizaje adquirido y tambien di
 (21/5) Me informe sobre <strong>LINUX</strong>(Curso xAcademy)<br>
 (22/5)Empece en el mundo de <strong>GIT</strong> (curso xAcademy) <br>
 (23/5)Me informe sobre <strong>DOCKER</strong> (Curso  xAcademy) <br>
-(24/5) Me informe sobre <strong>SCRUM/MARCO DE TRABAJO AGIL</strong> (Curso xAcademy) <br>
+(24/5)Me informe sobre <strong>SCRUM/MARCO DE TRABAJO AGIL</strong> (Curso xAcademy) <br>
+(24/5)Me informe sobre <strong>vISUAL STUDIO CODE</strong>(Curso xAcademy)<br> 
