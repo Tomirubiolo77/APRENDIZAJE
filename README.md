@@ -10,3 +10,4 @@ En este repositorio tendre un seguimiento del aprendizaje adquirido y tambien di
 (23/5)Me informe sobre <strong>DOCKER</strong> (Curso  xAcademy) <br>
 (24/5)Me informe sobre <strong>SCRUM/MARCO DE TRABAJO AGIL</strong> (Curso xAcademy) <br>
 (24/5)Me informe sobre <strong>VISUAL STUDIO CODE</strong>(Curso xAcademy)<br> 
+(24/5)Me informe sobre <strong>MYSQL</strong>(Curso xAcademy)<br> 
