@@ -15,4 +15,5 @@ En este repositorio tendre un seguimiento del aprendizaje adquirido y tambien di
 (24/5)Me informe sobre <strong>CSS</strong> (Curso xAcademy)<br> 
 (24/5)Me informe sobre <strong>JAVA SCRIPT</strong> (Curso xAcademy)<br> 
 (24/5)Realice Test Nivelatorio del Curso xAcademy. <strong>CALIFICACION: 75/100</strong> <br>
-
+(8/6)Realice actividades de <strong>CSS</strong><br>
+(8/6)Realice actividades de <strong>GIT</strong><br>
